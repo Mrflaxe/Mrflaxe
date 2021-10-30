@@ -18,6 +18,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Alpha version of the building mechanics | StarMC - Rust](https://www.youtube.com/watch?v=pcPfJn0f1BI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCsOP88yj6G9VgariKGIJtbw)
