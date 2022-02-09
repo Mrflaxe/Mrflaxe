@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Mrflaxe | YouTube" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-256.svg" />][youtube]
+[<img align="left" alt="Mrflaxe | YouTube" width="22px" src="https://raw.githubusercontent.com/Mrflaxe/Mrflaxe/2393b01c20af5d859a3162532cb784a92f5811ab/resources/youtube.svg" />][youtube]
 [<img align="left" alt="Mrflaxe | VKontakte" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2102/100/social_media_circled_network-10-512.svg" />][vkontakte]
 
 <br />
