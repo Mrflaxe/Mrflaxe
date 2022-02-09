@@ -9,6 +9,8 @@
 
 [<img align="left" alt="Mrflaxe | YouTube" width="22px" src="https://raw.githubusercontent.com/Mrflaxe/Mrflaxe/dc2584a3075d59ddaa75ccc1b28f22e87a25baf3/resources/youtube.svg" />][youtube]
 [<img align="left" alt="Mrflaxe | VKontakte" width="22px" src="https://raw.githubusercontent.com/Mrflaxe/Mrflaxe/dc2584a3075d59ddaa75ccc1b28f22e87a25baf3/resources/vk-circled.svg" />][vkontakte]
+[<img align="left" alt="Mrflaxe | Telegram" width="22px" src="https://raw.githubusercontent.com/Mrflaxe/Mrflaxe/772e3cfce1bf66e9c415c33b3ad1913e399d3257/resources/telegram-app.svg" />][telegram]
+
 
 <br />
 <br />
@@ -36,3 +38,4 @@
 
 [youtube]: https://www.youtube.com/channel/UCsOP88yj6G9VgariKGIJtbw
 [vkontakte]: https://vk.com/mrflaxe
+[telegram]: https://t.me/Mrflaxe
