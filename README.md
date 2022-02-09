@@ -18,6 +18,8 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Sounds of farming | StarMC - RUST](https://www.youtube.com/watch?v=SPD2WWn48Ro)
+- [ItemsAdder HUD display bug | shifting when display another HUDs](https://www.youtube.com/watch?v=xt_hx4ItrnA)
 - [Alpha version of the building mechanics | StarMC - Rust](https://www.youtube.com/watch?v=pcPfJn0f1BI)
 <!-- YOUTUBE:END -->
 
