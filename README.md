@@ -1,9 +1,8 @@
-## Hello, I'm Dmitriy - aka Mrflaxe or Mrflaxe_dev  👋
+## Hello, my name is Dima - aka Mrflaxe or Mrflaxe_dev  👋
 
-### I'm a Game Developer and a bit more Java Developer.
+### I'm Java Developer.
 
-- Recently I created my implementation of Rust building in Minecraft!
-- Now I work on a custom generation plugin for Minecraft.
+- I am currently working on a Rust game server in Minecraft.
 
 ### Connect with me:
 
