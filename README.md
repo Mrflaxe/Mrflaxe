@@ -3,7 +3,7 @@
 ### I'm Java Developer.
 
 - I am currently working on a Rust game server in Minecraft.
-- Also I writting own interactive fiction telegram bot with open code source on java
+- Also I writting own interactive fiction telegram bot with open source code on java. <br>
 Check my repo for more information: https://github.com/Mrflaxe/IFTelegramBot
 
 ### Connect with me:
