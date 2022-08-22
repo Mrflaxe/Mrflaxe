@@ -14,7 +14,7 @@ Check my repo for more information: https://github.com/Mrflaxe/IFTelegramBot
 <br>
 ### Support me: 
 
-<b>PayPal:</b> https://www.paypal.com/donate/?hosted_button_id=H2PSEU87PPCS4
+<b>PayPal:</b> https://www.paypal.com/donate/?hosted_button_id=7MPBKHPGMMJJG
 
 ---
 
