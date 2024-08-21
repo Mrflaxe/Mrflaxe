@@ -2,7 +2,7 @@
 
 ### I'm Java Developer.
 
-- I am currently working on a Rust game server in Minecraft.
+- I currently working on a Rust game server in Minecraft.
 
 ### Connect with me:
 
